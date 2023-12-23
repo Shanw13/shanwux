@@ -5,6 +5,7 @@ body {
 .nav-title {
   font-weight: 700;
   font-size: 24px;
+  font-family: "regular-clarivate","Lucida Handwriting";
 }
 
 .button-text {
@@ -20,6 +21,7 @@ body {
 .main-title {
   font-size: 40px;
   font-weight: 700;
+  font-family:"Cursive";
 }
 
 .subheader-text {
@@ -30,7 +32,7 @@ body {
 .body-text {
   font-size: 20px;
   font-weight: 500;
-  font-family: "regular-clarivate";
+  font-family: "regular-clarivate","Lucida Handwriting";
 }
 
 .project-card-text {
