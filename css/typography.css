@@ -20,8 +20,9 @@ body {
 
 .main-title {
   font-size: 40px;
-  font-weight: 700;
-  font-family:"Chalkduster";
+  font-weight: 600;
+  font-family:"Apple Chancery";
+  font-style: oblique;
 }
 
 .subheader-text {
@@ -49,4 +50,5 @@ body {
   display: -webkit-box;
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
+  font-variant: small-caps;
 }
